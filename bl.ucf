@@ -1,0 +1,2 @@
+NET  LED          LOC="H18";   # Bank 3, Vcco=2.5V, No DCI
+NET  clk       LOC="AG18";  # Bank 4, Vcco=3.3V, No DCI 
